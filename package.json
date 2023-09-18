@@ -57,7 +57,7 @@
   "exports": {
     ".": {
       "require": "./dist/js/react-splide.cjs.js",
-      "import": "./dist/js/react-splide.esm.js",
+      "import": "./dist/js/react-splide.esm.mjs",
       "default": "./dist/js/react-splide.esm.js"
     },
     "./css": "./dist/css/splide.min.css",
